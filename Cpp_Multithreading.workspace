@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Cpp_Multithreading" Database="" Version="10000">
+  <Project Name="02_Cpp_Multithreading" Path="02_Cpp_Multithreading/02_Cpp_Multithreading.project" Active="Yes"/>
+  <Project Name="03_Cpp_Multithreading" Path="03_Cpp_Multithreading/03_Cpp_Multithreading.project" Active="No"/>
+  <Project Name="05_Shared_Data" Path="50_Shared_Data/50_Shared_Data.project" Active="No"/>
+  <Project Name="06_Mutexes" Path="06_Mutexes/06_Mutexes.project" Active="No"/>
+  <Project Name="08_Function_Arguments" Path="08_Function_Arguments/08_Function_Arguments.project" Active="No"/>
+  <Project Name="09_Lock_Guards" Path="09_Lock_Guards/09_Lock_Guards.project" Active="No"/>
+  <Project Name="10_Threads_with_Callable_Objects" Path="10_Threads_with_Callable_Objects/10_Threads_with_Callable_Objects.project" Active="No"/>
+  <Project Name="11_Calculating_PI" Path="Calculating_PI/Calculating_PI.project" Active="No"/>
+  <Project Name="12_Promises_and_Futures" Path="12_Promises_and_Futures/12_Promises_and_Futures.project" Active="No"/>
+  <Project Name="13_Promises_and_Exceptions" Path="13_Promises_and_Exceptions/13_Promises_and_Exceptions.project" Active="No"/>
+  <Project Name="14_Packaged_Tasks" Path="14_Packaged_Tasks/14_Packaged_Tasks.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="02_Cpp_Multithreading" ConfigName="Debug"/>
+      <Project Name="03_Cpp_Multithreading" ConfigName="Debug"/>
+      <Project Name="05_Shared_Data" ConfigName="Debug"/>
+      <Project Name="06_Mutexes" ConfigName="Debug"/>
+      <Project Name="08_Function_Arguments" ConfigName="Debug"/>
+      <Project Name="09_Lock_Guards" ConfigName="Debug"/>
+      <Project Name="10_Threads_with_Callable_Objects" ConfigName="Debug"/>
+      <Project Name="11_Calculating_PI" ConfigName="Debug"/>
+      <Project Name="12_Promises_and_Futures" ConfigName="Debug"/>
+      <Project Name="13_Promises_and_Exceptions" ConfigName="Debug"/>
+      <Project Name="14_Packaged_Tasks" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="02_Cpp_Multithreading" ConfigName="Release"/>
+      <Project Name="03_Cpp_Multithreading" ConfigName="Release"/>
+      <Project Name="05_Shared_Data" ConfigName="Release"/>
+      <Project Name="06_Mutexes" ConfigName="Release"/>
+      <Project Name="08_Function_Arguments" ConfigName="Release"/>
+      <Project Name="09_Lock_Guards" ConfigName="Release"/>
+      <Project Name="10_Threads_with_Callable_Objects" ConfigName="Release"/>
+      <Project Name="11_Calculating_PI" ConfigName="Release"/>
+      <Project Name="12_Promises_and_Futures" ConfigName="Release"/>
+      <Project Name="13_Promises_and_Exceptions" ConfigName="Release"/>
+      <Project Name="14_Packaged_Tasks" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
